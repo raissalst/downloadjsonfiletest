@@ -1,8 +1,10 @@
 
  Run command:
+ 
  json-server db.json --routes routes.json
  
  Routes:
+
   /simulado/ele2022/9577/config/br/br-e9577-i.json
 
   /simulado/ele2022/9577/config/df/df-e9577-i.json
@@ -32,5 +34,5 @@
   /simulado/ele2022/9577/fotos/br/280007779442.jpeg
 
   /simulado/ele2022/9577/fotos/br/280007778302.jpeg
-  
+
   /simulado/ele2022/9577/fotos/br/280007778467.jpeg
