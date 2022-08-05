@@ -1,7 +1,7 @@
 
  Run command:
  
- json-server db.json --routes routes.json
+ json-server db.json --routes routes.json --port 3004
  
  Routes:
 
