@@ -1,7 +1,11 @@
 
- Run command:
+ Run commands:
  
- json-server db.json --routes routes.json --port 3004
+ 1) json-server db.json --routes routes.json --port 3004
+
+OR
+
+ 2) npm start (with nodemon)
  
  Routes:
 
