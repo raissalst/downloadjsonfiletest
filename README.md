@@ -1,42 +1,50 @@
-
- Run commands:
+<h1 align="center"><a href="#" alt="tse">FAKE API - TSE</a></h1>
  
- 1) json-server db.json --routes routes.json --port 3004
+### 1. Application
 
-OR
+Run with: **_npm start_**
 
- 2) npm start (with nodemon)
- 
- Routes:
+---
 
-  /simulado/ele2022/9577/config/br/br-e9577-i.json
+### 2. Routes
 
-  /simulado/ele2022/9577/config/df/df-e9577-i.json
+número eleição = 9577
 
-  /simulado/ele2022/9577/dados-simplificados/br/br-c0001-e9577-r.json
+#### 2.1 Index files
+  /simulado/ele2022/[número eleição XXXX]/config/[uf/br/zz]/[uf/br/zz]-e[número eleição XXXX]-i.json
 
-  /simulado/ele2022/9577/dados-simplificados/df/df-c0003-e9577-r.json
+  _Example: /simulado/ele2022/9577/config/df/df-e9577-i.json_
 
-  /simulado/ele2022/9577/dados-simplificados/df/df-c0005-e9577-r.json
 
-  /simulado/ele2022/9577/dados-simplificados/df/df-c0006-e9577-r.json
+#### 2.2 Consolidate files
 
-  /simulado/ele2022/9577/dados-simplificados/df/df-c0008-e9577-r.json
+  /simulado/ele2022/[número eleição XXXX]/dados-simplificados/[uf/br/zz]/[uf/br/zz]-c[número cargo 0001/0003/0005/0006/0007/0008]-e[número eleição XXXX]-r.json
 
-  /simulado/ele2022/9577/fotos/br/280007778387.jpeg
+  _Example: /simulado/ele2022/9577/dados-simplificados/df/df-c0003-e9577-r.json_
 
-  /simulado/ele2022/9577/fotos/br/280007779438.jpeg
 
-  /simulado/ele2022/9577/fotos/br/280007778221.jpeg
+#### 2.3 Candidates' photos
 
-  /simulado/ele2022/9577/fotos/br/280007778300.jpeg
+  /simulado/ele2022/[número eleição XXXX]/fotos/[uf/br]/[sqcand].jpeg
 
-  /simulado/ele2022/9577/fotos/br/280007778385.jpeg
+  _Example: /simulado/ele2022/9577/fotos/br/280007779438.jpeg_
 
-  /simulado/ele2022/9577/fotos/br/280007778465.jpeg
+ _Existing sqcand:_
 
-  /simulado/ele2022/9577/fotos/br/280007779442.jpeg
+    280007778387
 
-  /simulado/ele2022/9577/fotos/br/280007778302.jpeg
+    280007779438
 
-  /simulado/ele2022/9577/fotos/br/280007778467.jpeg
+    280007778221
+
+    280007778300
+
+    280007778385
+
+    280007778465
+
+    280007779442
+
+    280007778302
+
+    280007778467
