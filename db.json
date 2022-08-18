@@ -27,7 +27,7 @@
                 "dh": "12/08/2022 19:54:18"
             },
             { 
-                "nm": "br-c0001-e9577-r.json",
+                "nm": "br-c0001-e000544-r.json",
                 "dh": "25/06/2022 15:40:32" 
             },
             {
@@ -2789,7 +2789,7 @@
         ]
     },
     "consolidadobr": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "br",
         "cdabr": "br",
         "carper": 1,
@@ -2971,7 +2971,7 @@
         ]
     },
     "consolidadozz": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "zz",
         "carper": 1,
@@ -3153,7 +3153,7 @@
         ]
     },
     "consolidadoac1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ac",
         "carper": 1,
@@ -3336,7 +3336,7 @@
         ]
     },
     "consolidadoac3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ac",
         "carper": 3,
@@ -3506,7 +3506,7 @@
         ]
     },
     "consolidadoac5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ac",
         "carper": 5,
@@ -3683,7 +3683,7 @@
         ]
     },
     "consolidadoac6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ac",
         "carper": 6,
@@ -4439,7 +4439,7 @@
         ]
     },
     "consolidadoac7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ac",
         "carper": 7,
@@ -5416,7 +5416,7 @@
         ]
     },
     "consolidadoal1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "al",
         "carper": 1,
@@ -5599,7 +5599,7 @@
         ]
     },
     "consolidadoal3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "al",
         "carper": 3,
@@ -5769,7 +5769,7 @@
         ]
     },
     "consolidadoal5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "al",
         "carper": 5,
@@ -5946,7 +5946,7 @@
         ]
     },
     "consolidadoal6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "al",
         "carper": 6,
@@ -6702,7 +6702,7 @@
         ]
     },
     "consolidadoal7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "al",
         "carper": 7,
@@ -7679,7 +7679,7 @@
         ]
     },
     "consolidadoam1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "am",
         "carper": 1,
@@ -7862,7 +7862,7 @@
         ]
     },
     "consolidadoam3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "am",
         "carper": 3,
@@ -8032,7 +8032,7 @@
         ]
     },
     "consolidadoam5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "am",
         "carper": 5,
@@ -8209,7 +8209,7 @@
         ]
     },
     "consolidadoam6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "am",
         "carper": 6,
@@ -8965,7 +8965,7 @@
         ]
     },
     "consolidadoam7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "am",
         "carper": 7,
@@ -9942,7 +9942,7 @@
         ]
     },
     "consolidadoap1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ap",
         "carper": 1,
@@ -10125,7 +10125,7 @@
         ]
     },
     "consolidadoap3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ap",
         "carper": 3,
@@ -10295,7 +10295,7 @@
         ]
     },
     "consolidadoap5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ap",
         "carper": 5,
@@ -10472,7 +10472,7 @@
         ]
     },
     "consolidadoap6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ap",
         "carper": 6,
@@ -11228,7 +11228,7 @@
         ]
     },
     "consolidadoap7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ap",
         "carper": 7,
@@ -12205,7 +12205,7 @@
         ]
     },
     "consolidadoba1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ba",
         "carper": 1,
@@ -12388,7 +12388,7 @@
         ]
     },
     "consolidadoba3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ba",
         "carper": 3,
@@ -12558,7 +12558,7 @@
         ]
     },
     "consolidadoba5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ba",
         "carper": 5,
@@ -12735,7 +12735,7 @@
         ]
     },
     "consolidadoba6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ba",
         "carper": 6,
@@ -13491,7 +13491,7 @@
         ]
     },
     "consolidadoba7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ba",
         "carper": 7,
@@ -14468,7 +14468,7 @@
         ]
     },
     "consolidadoce1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ce",
         "carper": 1,
@@ -14651,7 +14651,7 @@
         ]
     },
     "consolidadoce3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ce",
         "carper": 3,
@@ -14821,7 +14821,7 @@
         ]
     },
     "consolidadoce5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ce",
         "carper": 5,
@@ -14998,7 +14998,7 @@
         ]
     },
     "consolidadoce6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ce",
         "carper": 6,
@@ -15754,7 +15754,7 @@
         ]
     },
     "consolidadoce7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ce",
         "carper": 7,
@@ -16731,7 +16731,7 @@
         ]
     },
     "consolidadodf1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "df",
         "carper": 1,
@@ -16914,7 +16914,7 @@
         ]
     },
     "consolidadodf3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "df",
         "carper": 3,
@@ -17084,7 +17084,7 @@
         ]
     },
     "consolidadodf5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "df",
         "carper": 5,
@@ -17261,7 +17261,7 @@
         ]
     },
     "consolidadodf6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "df",
         "carper": 6,
@@ -18017,7 +18017,7 @@
         ]
     },
     "consolidadodf8": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "df",
         "carper": 8,
@@ -18994,7 +18994,7 @@
         ]
     },
     "consolidadoes1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "es",
         "carper": 1,
@@ -19177,7 +19177,7 @@
         ]
     },
     "consolidadoes3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "es",
         "carper": 3,
@@ -19347,7 +19347,7 @@
         ]
     },
     "consolidadoes5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "es",
         "carper": 5,
@@ -19524,7 +19524,7 @@
         ]
     },
     "consolidadoes6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "es",
         "carper": 6,
@@ -20280,7 +20280,7 @@
         ]
     },
     "consolidadoes7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "es",
         "carper": 7,
@@ -21257,7 +21257,7 @@
         ]
     },
     "consolidadogo1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "go",
         "carper": 1,
@@ -21440,7 +21440,7 @@
         ]
     },
     "consolidadogo3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "go",
         "carper": 3,
@@ -21610,7 +21610,7 @@
         ]
     },
     "consolidadogo5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "go",
         "carper": 5,
@@ -21787,7 +21787,7 @@
         ]
     },
     "consolidadogo6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "go",
         "carper": 6,
@@ -22543,7 +22543,7 @@
         ]
     },
     "consolidadogo7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "go",
         "carper": 7,
@@ -23520,7 +23520,7 @@
         ]
     },
     "consolidadoma1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ma",
         "carper": 1,
@@ -23703,7 +23703,7 @@
         ]
     },
     "consolidadoma3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ma",
         "carper": 3,
@@ -23873,7 +23873,7 @@
         ]
     },
     "consolidadoma5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ma",
         "carper": 5,
@@ -24050,7 +24050,7 @@
         ]
     },
     "consolidadoma6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ma",
         "carper": 6,
@@ -24806,7 +24806,7 @@
         ]
     },
     "consolidadoma7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ma",
         "carper": 7,
@@ -25783,7 +25783,7 @@
         ]
     },
     "consolidadomg1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "mg",
         "carper": 1,
@@ -25966,7 +25966,7 @@
         ]
     },
     "consolidadomg3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mg",
         "carper": 3,
@@ -26136,7 +26136,7 @@
         ]
     },
     "consolidadomg5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mg",
         "carper": 5,
@@ -26313,7 +26313,7 @@
         ]
     },
     "consolidadomg6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "mg",
         "carper": 6,
@@ -27069,7 +27069,7 @@
         ]
     },
     "consolidadomg7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mg",
         "carper": 7,
@@ -28046,7 +28046,7 @@
         ]
     },
     "consolidadoms1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ms",
         "carper": 1,
@@ -28229,7 +28229,7 @@
         ]
     },
     "consolidadoms3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ms",
         "carper": 3,
@@ -28399,7 +28399,7 @@
         ]
     },
     "consolidadoms5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ms",
         "carper": 5,
@@ -28576,7 +28576,7 @@
         ]
     },
     "consolidadoms6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ms",
         "carper": 6,
@@ -29332,7 +29332,7 @@
         ]
     },
     "consolidadoms7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ms",
         "carper": 7,
@@ -30309,7 +30309,7 @@
         ]
     },
     "consolidadomt1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "mt",
         "carper": 1,
@@ -30492,7 +30492,7 @@
         ]
     },
     "consolidadomt3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mt",
         "carper": 3,
@@ -30662,7 +30662,7 @@
         ]
     },
     "consolidadomt5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mt",
         "carper": 5,
@@ -30839,7 +30839,7 @@
         ]
     },
     "consolidadomt6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "mt",
         "carper": 6,
@@ -31595,7 +31595,7 @@
         ]
     },
     "consolidadomt7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "mt",
         "carper": 7,
@@ -32572,7 +32572,7 @@
         ]
     },   
     "consolidadopa1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pa",
         "carper": 1,
@@ -32755,7 +32755,7 @@
         ]
     },
     "consolidadopa3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pa",
         "carper": 3,
@@ -32925,7 +32925,7 @@
         ]
     },
     "consolidadopa5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pa",
         "carper": 5,
@@ -33102,7 +33102,7 @@
         ]
     },
     "consolidadopa6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pa",
         "carper": 6,
@@ -33858,7 +33858,7 @@
         ]
     },
     "consolidadopa7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pa",
         "carper": 7,
@@ -34835,7 +34835,7 @@
         ]
     },
     "consolidadopb1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pb",
         "carper": 1,
@@ -35018,7 +35018,7 @@
         ]
     },
     "consolidadopb3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pb",
         "carper": 3,
@@ -35188,7 +35188,7 @@
         ]
     },
     "consolidadopb5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pb",
         "carper": 5,
@@ -35365,7 +35365,7 @@
         ]
     },
     "consolidadopb6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pb",
         "carper": 6,
@@ -36121,7 +36121,7 @@
         ]
     },
     "consolidadopb7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pb",
         "carper": 7,
@@ -37098,7 +37098,7 @@
         ]
     },
     "consolidadope1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pe",
         "carper": 1,
@@ -37281,7 +37281,7 @@
         ]
     },
     "consolidadope3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pe",
         "carper": 3,
@@ -37451,7 +37451,7 @@
         ]
     },
     "consolidadope5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pe",
         "carper": 5,
@@ -37628,7 +37628,7 @@
         ]
     },
     "consolidadope6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pe",
         "carper": 6,
@@ -38384,7 +38384,7 @@
         ]
     },
     "consolidadope7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pe",
         "carper": 7,
@@ -39361,7 +39361,7 @@
         ]
     },
     "consolidadopi1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pi",
         "carper": 1,
@@ -39544,7 +39544,7 @@
         ]
     },
     "consolidadopi3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pi",
         "carper": 3,
@@ -39714,7 +39714,7 @@
         ]
     },
     "consolidadopi5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pi",
         "carper": 5,
@@ -39891,7 +39891,7 @@
         ]
     },
     "consolidadopi6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pi",
         "carper": 6,
@@ -40647,7 +40647,7 @@
         ]
     },
     "consolidadopi7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pi",
         "carper": 7,
@@ -41624,7 +41624,7 @@
         ]
     },
     "consolidadopr1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pr",
         "carper": 1,
@@ -41807,7 +41807,7 @@
         ]
     },
     "consolidadopr3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pr",
         "carper": 3,
@@ -41977,7 +41977,7 @@
         ]
     },
     "consolidadopr5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pr",
         "carper": 5,
@@ -42154,7 +42154,7 @@
         ]
     },
     "consolidadopr6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "pr",
         "carper": 6,
@@ -42910,7 +42910,7 @@
         ]
     },
     "consolidadopr7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "pr",
         "carper": 7,
@@ -43887,7 +43887,7 @@
         ]
     },
     "consolidadorj1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rj",
         "carper": 1,
@@ -44070,7 +44070,7 @@
         ]
     },
     "consolidadorj3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rj",
         "carper": 3,
@@ -44240,7 +44240,7 @@
         ]
     },
     "consolidadorj5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rj",
         "carper": 5,
@@ -44417,7 +44417,7 @@
         ]
     },
     "consolidadorj6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rj",
         "carper": 6,
@@ -45173,7 +45173,7 @@
         ]
     },
     "consolidadorj7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rj",
         "carper": 7,
@@ -46150,7 +46150,7 @@
         ]
     },
     "consolidadorn1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rn",
         "carper": 1,
@@ -46333,7 +46333,7 @@
         ]
     },
     "consolidadorn3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rn",
         "carper": 3,
@@ -46503,7 +46503,7 @@
         ]
     },
     "consolidadorn5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rn",
         "carper": 5,
@@ -46680,7 +46680,7 @@
         ]
     },
     "consolidadorn6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rn",
         "carper": 6,
@@ -47436,7 +47436,7 @@
         ]
     },
     "consolidadorn7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rn",
         "carper": 7,
@@ -48413,7 +48413,7 @@
         ]
     },
     "consolidadoro1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ro",
         "carper": 1,
@@ -48596,7 +48596,7 @@
         ]
     },
     "consolidadoro3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ro",
         "carper": 3,
@@ -48766,7 +48766,7 @@
         ]
     },
     "consolidadoro5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ro",
         "carper": 5,
@@ -48943,7 +48943,7 @@
         ]
     },
     "consolidadoro6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "ro",
         "carper": 6,
@@ -49699,7 +49699,7 @@
         ]
     },
     "consolidadoro7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "ro",
         "carper": 7,
@@ -50676,7 +50676,7 @@
         ]
     },
     "consolidadorr1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rr",
         "carper": 1,
@@ -50859,7 +50859,7 @@
         ]
     },
     "consolidadorr3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rr",
         "carper": 3,
@@ -51029,7 +51029,7 @@
         ]
     },
     "consolidadorr5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rr",
         "carper": 5,
@@ -51206,7 +51206,7 @@
         ]
     },
     "consolidadorr6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rr",
         "carper": 6,
@@ -51962,7 +51962,7 @@
         ]
     },
     "consolidadorr7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rr",
         "carper": 7,
@@ -52939,7 +52939,7 @@
         ]
     },
     "consolidadors1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rs",
         "carper": 1,
@@ -53122,7 +53122,7 @@
         ]
     },
     "consolidadors3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rs",
         "carper": 3,
@@ -53292,7 +53292,7 @@
         ]
     },
     "consolidadors5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rs",
         "carper": 5,
@@ -53469,7 +53469,7 @@
         ]
     },
     "consolidadors6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "rs",
         "carper": 6,
@@ -54225,7 +54225,7 @@
         ]
     },
     "consolidadors7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "rs",
         "carper": 7,
@@ -55202,7 +55202,7 @@
         ]
     },
     "consolidadosc1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "sc",
         "carper": 1,
@@ -55385,7 +55385,7 @@
         ]
     },
     "consolidadosc3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sc",
         "carper": 3,
@@ -55555,7 +55555,7 @@
         ]
     },
     "consolidadosc5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sc",
         "carper": 5,
@@ -55732,7 +55732,7 @@
         ]
     },
     "consolidadosc6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "sc",
         "carper": 6,
@@ -56488,7 +56488,7 @@
         ]
     },
     "consolidadosc7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sc",
         "carper": 7,
@@ -57465,7 +57465,7 @@
         ]
     },
     "consolidadose1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "se",
         "carper": 1,
@@ -57648,7 +57648,7 @@
         ]
     },
     "consolidadose3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "se",
         "carper": 3,
@@ -57818,7 +57818,7 @@
         ]
     },
     "consolidadose5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "se",
         "carper": 5,
@@ -57995,7 +57995,7 @@
         ]
     },
     "consolidadose6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "se",
         "carper": 6,
@@ -58751,7 +58751,7 @@
         ]
     },
     "consolidadose7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "se",
         "carper": 7,
@@ -59728,7 +59728,7 @@
         ]
     },
     "consolidadosp1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "sp",
         "carper": 1,
@@ -59911,7 +59911,7 @@
         ]
     },
     "consolidadosp3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sp",
         "carper": 3,
@@ -60081,7 +60081,7 @@
         ]
     },
     "consolidadosp5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sp",
         "carper": 5,
@@ -60258,7 +60258,7 @@
         ]
     },
     "consolidadosp6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "sp",
         "carper": 6,
@@ -61014,7 +61014,7 @@
         ]
     },
     "consolidadosp7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "sp",
         "carper": 7,
@@ -61991,7 +61991,7 @@
         ]
     },
     "consolidadoto1": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "to",
         "carper": 1,
@@ -62174,7 +62174,7 @@
         ]
     },
     "consolidadoto3": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "to",
         "carper": 3,
@@ -62344,7 +62344,7 @@
         ]
     },
     "consolidadoto5": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "to",
         "carper": 5,
@@ -62521,7 +62521,7 @@
         ]
     },
     "consolidadoto6": {
-        "ele": 9577,
+        "ele": 544,
         "tpabr": "uf",
         "cdabr": "to",
         "carper": 6,
@@ -63277,7 +63277,7 @@
         ]
     },
     "consolidadoto7": {
-        "ele": 9577,
+        "ele": 546,
         "tpabr": "uf",
         "cdabr": "to",
         "carper": 7,
