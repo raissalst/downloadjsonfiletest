@@ -7502,8 +7502,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -7515,8 +7515,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadozz1": {
@@ -7594,8 +7684,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -7607,8 +7697,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoac11": {
@@ -7687,8 +7867,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -7700,8 +7880,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoac13": {
@@ -9860,8 +10130,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -9873,8 +10143,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoal13": {
@@ -12033,8 +12393,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -12046,8 +12406,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoam13": {
@@ -14206,8 +14656,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -14219,8 +14669,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoap13": {
@@ -16379,8 +16919,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -16392,8 +16932,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoba13": {
@@ -18552,8 +19182,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -18565,8 +19195,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoce13": {
@@ -20725,8 +21445,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -20738,8 +21458,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadodf13": {
@@ -22898,8 +23708,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -22911,8 +23721,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoes13": {
@@ -25071,8 +25971,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -25084,8 +25984,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadogo13": {
@@ -27244,8 +28234,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -27257,8 +28247,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoma13": {
@@ -29417,8 +30497,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -29430,8 +30510,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadomg13": {
@@ -31590,8 +32760,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -31603,8 +32773,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoms13": {
@@ -33763,8 +35023,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -33776,8 +35036,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadomt13": {
@@ -35936,8 +37286,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -35949,8 +37299,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadopa13": {
@@ -38109,8 +39549,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -38122,8 +39562,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadopb13": {
@@ -40282,8 +41812,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -40295,8 +41825,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadope13": {
@@ -42455,8 +44075,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -42468,8 +44088,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadopi13": {
@@ -44628,8 +46338,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -44641,8 +46351,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadopr13": {
@@ -46801,8 +48601,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -46814,8 +48614,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadorj13": {
@@ -48974,8 +50864,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -48987,8 +50877,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadorn13": {
@@ -51147,8 +53127,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -51160,8 +53140,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadoro13": {
@@ -53320,8 +55390,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -53333,7 +55403,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadorr13": {
@@ -55492,8 +57653,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -55505,8 +57666,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadors13": {
@@ -57665,8 +59916,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -57678,8 +59929,98 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            }
-           
+                },
+                {
+                "seq": 3,
+                "sqcand": 280007778221,
+                "n": 12,
+                "nm": "CANDIDATO 12",
+                "cc": "P12 -  P12 / P13 / P15",
+                "nv": "CANDIDATO 12 1",
+                "e": "n",
+                "vap": 362148,
+                "pvap": "24,22",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 4,
+                "sqcand": 280007778300,
+                "n": 36,
+                "nm": "CANDIDATO 36",
+                "cc": "P36",
+                "nv": "CANDIDATO 36 1",
+                "e": "n",
+                "vap": 360120,
+                "pvap": "24,08",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 5,
+                "sqcand": 280007778385,
+                "n": 19,
+                "nm": "CANDIDATO 19",
+                "cc": "P19",
+                "nv": "CANDIDATO 19 1",
+                "e": "n",
+                "vap": 359759,
+                "pvap": "24,06",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                },
+                {
+                "seq": 6,
+                "sqcand": 280007778465,
+                "n": 51,
+                "nm": "CANDIDATO 51",
+                "cc": "P51",
+                "nv": "CANDIDATO 51 1",
+                "e": "n",
+                "vap": 359379,
+                "pvap": "24,04",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 7,
+                "sqcand": 280007779442,
+                "n": 24,
+                "nm": "CANDIDATO 24",
+                "cc": "",
+                "nv": "CANDIDATO 24 1",
+                "e": "n",
+                "vap": 357556,
+                "pvap": "23,91",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 8,
+                "sqcand": 280007778302,
+                "n": 52,
+                "nm": "CANDIDATO 52",
+                "cc": "P52",
+                "nv": "CANDIDATO 52 1",
+                "e": "n",
+                "vap": 355894,
+                "pvap": "23,80",
+                "st": "Não eleito",
+                "dvt": "Válido"
+                },
+                {
+                "seq": 9,
+                "sqcand": 280007778467,
+                "n": 91,
+                "nm": "CANDIDATO 91",
+                "cc": "P91",
+                "nv": "CANDIDATO 91 1",
+                "e": "n",
+                "vap": 349051,
+                "pvap": "23,34",
+                "st": "Não eleito",
+                "dvt": "Anulado sub judice"
+                }
         ]
     },
     "consolidadosc13": {
@@ -59838,8 +62179,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -59851,8 +62192,8 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 3,
                 "sqcand": 280007778221,
                 "n": 12,
@@ -59864,8 +62205,8 @@
                 "pvap": "24,22",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 4,
                 "sqcand": 280007778300,
                 "n": 36,
@@ -59877,8 +62218,8 @@
                 "pvap": "24,08",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            },
-            {
+                },
+                {
                 "seq": 5,
                 "sqcand": 280007778385,
                 "n": 19,
@@ -59890,8 +62231,8 @@
                 "pvap": "24,06",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            },
-            {
+                },
+                {
                 "seq": 6,
                 "sqcand": 280007778465,
                 "n": 51,
@@ -59903,8 +62244,8 @@
                 "pvap": "24,04",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 7,
                 "sqcand": 280007779442,
                 "n": 24,
@@ -59916,8 +62257,8 @@
                 "pvap": "23,91",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 8,
                 "sqcand": 280007778302,
                 "n": 52,
@@ -59929,8 +62270,8 @@
                 "pvap": "23,80",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 9,
                 "sqcand": 280007778467,
                 "n": 91,
@@ -59942,7 +62283,7 @@
                 "pvap": "23,34",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            }
+                }
         ]
     },
     "consolidadose13": {
@@ -62101,8 +64442,8 @@
                 "pvap": "24,90",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 2,
                 "sqcand": 280007779438,
                 "n": 14,
@@ -62114,8 +64455,8 @@
                 "pvap": "24,38",
                 "st": "2º turno",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 3,
                 "sqcand": 280007778221,
                 "n": 12,
@@ -62127,8 +64468,8 @@
                 "pvap": "24,22",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 4,
                 "sqcand": 280007778300,
                 "n": 36,
@@ -62140,8 +64481,8 @@
                 "pvap": "24,08",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            },
-            {
+                },
+                {
                 "seq": 5,
                 "sqcand": 280007778385,
                 "n": 19,
@@ -62153,8 +64494,8 @@
                 "pvap": "24,06",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            },
-            {
+                },
+                {
                 "seq": 6,
                 "sqcand": 280007778465,
                 "n": 51,
@@ -62166,8 +64507,8 @@
                 "pvap": "24,04",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 7,
                 "sqcand": 280007779442,
                 "n": 24,
@@ -62179,8 +64520,8 @@
                 "pvap": "23,91",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 8,
                 "sqcand": 280007778302,
                 "n": 52,
@@ -62192,8 +64533,8 @@
                 "pvap": "23,80",
                 "st": "Não eleito",
                 "dvt": "Válido"
-            },
-            {
+                },
+                {
                 "seq": 9,
                 "sqcand": 280007778467,
                 "n": 91,
@@ -62205,7 +64546,7 @@
                 "pvap": "23,34",
                 "st": "Não eleito",
                 "dvt": "Anulado sub judice"
-            }
+                }
         ]
     },
     "consolidadosp13": {
