@@ -1,4 +1,4 @@
-{
+module.exports.rewriter = {
     "/simulado/ele2022/544/config/br/br-e000544-i.json": "/indicebr544",
     "/simulado/ele2022/544/config/zz/zz-e000544-i.json": "/indicezz544",
     "/simulado/ele2022/544/config/ac/ac-e000544-i.json": "/indiceac544",
