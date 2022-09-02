@@ -4,7 +4,13 @@
     "json-server": "^0.17.0",
     "json-server-auth": "^2.1.0"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "heroku:logs": "heroku logs --tail",
+    "heroku:commit": "git add . & git commit -m 'update' & npm run deploy",
+    "heroku:deploy": "git push heroku main"
   }
 }
