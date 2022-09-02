@@ -2,7 +2,7 @@ const jsonServer = require("json-server");
 const auth = require("json-server-auth");
 const cors = require("cors");
 const { rewriter } = require("./routes");
-const port = 3004;
+const port = process.env.PORT || 3004;
 
 const app = jsonServer.create();
 const router = jsonServer.router("db.json");
