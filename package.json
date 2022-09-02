@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node server.js",
     "heroku:logs": "heroku logs --tail",
-    "heroku:commit": "git add . & git commit -m 'update' & npm run deploy",
+    "heroku:commit": "git add . & git commit -m 'update' & npm run heroku:deploy",
     "heroku:deploy": "git push heroku main"
   }
 }
