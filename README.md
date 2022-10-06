@@ -7,9 +7,13 @@ Run with: **_npm start_**
 ---
 
 ### 2. Routes
-
+Primeiro turno:
 número eleição federal = 544
 número eleição estadual = 546
+
+Segundo turno:
+número eleição federal = 545
+número eleição estadual = 547
 
 #### 2.1 Index files
   /teste/ele2022/[número eleição XXX]/config/[uf/br/zz]/[uf/br/zz]-e[número eleição XXXXXX]-i.json
