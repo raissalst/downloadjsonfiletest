@@ -85,7 +85,7 @@ module.exports.rewriter = {
     "/oficial/ele2022/546/config/se/se-e000546-i.json": "/indicese546",
     "/oficial/ele2022/546/config/sp/sp-e000546-i.json": "/indicesp546",
     "/oficial/ele2022/546/config/to/to-e000546-i.json": "/indiceto546",
-    "/oficial/ele2022/547/config/al/al-e000547-i.json": "/indiceac547",
+    "/oficial/ele2022/547/config/al/al-e000547-i.json": "/indiceal547",
     "/oficial/ele2022/547/config/am/am-e000547-i.json": "/indiceam547",
     "/oficial/ele2022/547/config/ba/ba-e000547-i.json": "/indiceba547",
     "/oficial/ele2022/547/config/es/es-e000547-i.json": "/indicees547",
