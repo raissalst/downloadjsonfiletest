@@ -9,6 +9,8 @@
   },
   "scripts": {
     "start": "node server.js",
+    "heroku:create": "heroku create tse-api-fake",
+    "heroku:remote": "heroku git:remote -a tse-api-fake",
     "heroku:logs": "heroku logs --tail",
     "heroku:commit": "git add . & git commit -m 'update' & npm run heroku:deploy",
     "heroku:deploy": "git push heroku main"
